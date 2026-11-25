@@ -1,0 +1,41 @@
+name: Hourly Free Data Sync
+
+on:
+  schedule:
+    # Run at minute 5 of every hour (08:05 CST triggers fresh day cutover)
+    - cron: "5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+
+      - name: Run zero-cost data sync
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Optional: set these later if you upgrade to an X API provider
+          X_DATA_PROVIDER_URL: ${{ secrets.X_DATA_PROVIDER_URL }}
+          X_DATA_PROVIDER_KEY: ${{ secrets.X_DATA_PROVIDER_KEY }}
+        run: npm run sync
+
+      - name: Run analytics unit tests
+        run: npm test
+
+      - name: Commit updated snapshots if changed
+        run: |
+          git config user.name "xbangdan-bot"
+          git config user.email "bot@xbangdan.local"
+          git add data/latest.json data/sync-status.json data/daily/
+          git diff --cached --quiet || git commit -m "chore(data): hourly sync $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push

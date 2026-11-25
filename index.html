@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>X榜单 · X中文区博主的每日情报站</title>
+  <meta name="description" content="X榜单（xbangdan.com）是X中文区博主的每日情报站：追踪中文区活跃账号的发帖、评论、涨粉与推文曝光榜单，提供24小时爆款推文、海外热榜、AI情报福利与X日报。" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@500;700&family=Noto+Sans+SC:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <!-- Sticky Header -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <a href="#home" class="brand" data-route="home">
+        <div class="brand-mark" aria-hidden="true">𝕏</div>
+        <div class="brand-text">
+          <span class="brand-title">X榜单</span>
+          <span class="brand-sub">中文区每日情报站</span>
+        </div>
+      </a>
+
+      <nav class="primary-nav" aria-label="主导航">
+        <a href="#home" class="nav-item active" data-route="home">首页</a>
+        <a href="#accounts" class="nav-item" data-route="accounts">账号</a>
+        <a href="#posts" class="nav-item" data-route="posts">推文</a>
+        <a href="#global" class="nav-item" data-route="global">海外</a>
+        <a href="#intel" class="nav-item" data-route="intel">情报</a>
+        <a href="#topics" class="nav-item" data-route="topics">话题</a>
+        <a href="#daily" class="nav-item" data-route="daily">X 日报</a>
+        <a href="#mcp" class="nav-item" data-route="mcp">MCP <span class="nav-badge">NEW</span></a>
+      </nav>
+
+      <div class="header-actions">
+        <div class="search-box">
+          <span class="search-icon" aria-hidden="true">⌕</span>
+          <input
+            type="search"
+            id="globalSearchInput"
+            class="search-input"
+            placeholder="搜博主昵称 / @ / 推文..."
+            autocomplete="off"
+          />
+          <div id="searchDropdown" class="search-dropdown" role="listbox"></div>
+        </div>
+
+        <button id="btnAddAccount" class="icon-btn header-hide-sm" title="推荐一个账号上榜">
+          <span>＋</span> 添加账号
+        </button>
+
+        <button id="btnNotice" class="icon-btn icon-btn-square" title="消息中心" aria-label="消息中心">
+          🔔
+          <span id="noticeDot" class="badge-dot"></span>
+        </button>
+
+        <button id="btnLogin" class="icon-btn primary">
+          登录
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Subtle Announcement / Update Ticker -->
+  <div class="ticker-strip">
+    <div class="container ticker-inner">
+      <div class="ticker-left">
+        <span class="ticker-tag">每小时更新</span>
+        <a href="#mcp" class="ticker-link" data-route="mcp">新上线 X榜单 MCP，让你的 AI 直接在 Claude Code / Cursor 中查爆款与对标账号 ›</a>
+      </div>
+      <div class="ticker-meta">
+        <span id="liveSourceBadge">数据源：加载中...</span>
+        <button id="btnRefreshData" style="color:var(--accent-blue);font-weight:600;">🔄 刷新数据</button>
+        <button id="btnMethodologyTop" style="color:var(--text-secondary);font-weight:600;">数据是怎么算的？</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Dynamic Main View -->
+  <main id="appMain" class="main-content">
+    <div class="container" id="viewRoot"></div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <div>
+        <strong>X榜单 · xbangdan.com</strong>
+        <span style="margin-left:10px;color:var(--text-muted);">X 中文区数据门户 · 每天 08:30 出刊 · 数据来自 X 公开页面，以官方为准</span>
+      </div>
+      <div class="footer-links">
+        <button id="btnMethodologyFoot">数据说明</button>
+        <button id="btnFeedbackFoot">建议反馈</button>
+        <button id="btnAddAccountFoot">推荐账号</button>
+        <a href="#daily" data-route="daily">今日日报</a>
+        <a href="#mcp" data-route="mcp">MCP 接入</a>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Mobile Bottom Nav -->
+  <nav class="mobile-bottom-nav" aria-label="移动端导航">
+    <button class="mobile-nav-btn active" data-route="home"><span>🏠</span><span>首页</span></button>
+    <button class="mobile-nav-btn" data-route="accounts"><span>👥</span><span>账号</span></button>
+    <button class="mobile-nav-btn" data-route="posts"><span>🔥</span><span>推文</span></button>
+    <button class="mobile-nav-btn" data-route="global"><span>🌍</span><span>海外</span></button>
+    <button class="mobile-nav-btn" data-route="intel"><span>⚡</span><span>情报</span></button>
+    <button class="mobile-nav-btn" data-route="daily"><span>📰</span><span>日报</span></button>
+  </nav>
+
+  <!-- Reusable Modal Backdrop -->
+  <div id="modalBackdrop" class="modal-backdrop" role="dialog" aria-modal="true" aria-hidden="true">
+    <div id="modalBox" class="modal-box">
+      <div class="modal-head">
+        <h2 id="modalTitle" class="modal-title"></h2>
+        <button id="modalClose" class="modal-close" aria-label="关闭">✕</button>
+      </div>
+      <div id="modalBody"></div>
+    </div>
+  </div>
+
+  <!-- Toast -->
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <script src="data.js"></script>
+  <script src="api.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

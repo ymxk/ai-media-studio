@@ -1,0 +1,25 @@
+{
+  "statDate": "2026-11-25",
+  "syncedAtISO": "2026-11-25T02:26:55.296Z",
+  "updatedAtCST": "11-25 10:26",
+  "mode": "free-tier",
+  "providers": {
+    "github": {
+      "ok": true,
+      "count": 8
+    },
+    "hackernews": {
+      "ok": true,
+      "count": 6
+    },
+    "bluesky": {
+      "ok": false,
+      "error": "Bluesky API HTTP 403"
+    },
+    "xAdapter": {
+      "ok": false,
+      "skipped": true,
+      "note": "未配置 X_DATA_PROVIDER_URL，保持免费零成本模式"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "xbangdan-studio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "X榜单 (xbangdan.com) 复刻版与零成本实时数据接入管道",
+  "scripts": {
+    "sync": "node scripts/sync.mjs",
+    "test": "node --test scripts/analytics.test.mjs",
+    "dev": "python3 -m http.server 8080"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
