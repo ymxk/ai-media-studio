@@ -3,7 +3,7 @@
     "date": "2026-11-25",
     "yesterdayDate": "2026-11-24",
     "weekday": "星期三",
-    "updatedAt": "11-25 22:08",
+    "updatedAt": "11-26 07:33",
     "todayOriginalPosts": 27566,
     "todayTotalViews": "2.6亿",
     "trackedAccounts": 2984,
@@ -2118,12 +2118,12 @@
       "topics": [
         "开源工具"
       ],
-      "title": "Marvisak/VIctory（★ 12,149）",
+      "title": "Marvisak/VIctory（★ 12,584）",
       "desc": "An attempt at running GTA VI on PC",
       "author": "Marvisak",
       "pubTime": "11-23 21:47",
       "listed": "11-23",
-      "votes": 486,
+      "votes": 503,
       "url": "https://github.com/Marvisak/VIctory",
       "source": "GitHub API"
     },
@@ -2135,13 +2135,30 @@
       "topics": [
         "开源工具"
       ],
-      "title": "xcl-dev/xcl（★ 8,147）",
+      "title": "xcl-dev/xcl（★ 8,304）",
       "desc": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
       "author": "xcl-dev",
       "pubTime": "11-20 20:03",
       "listed": "11-20",
-      "votes": 326,
+      "votes": 332,
       "url": "https://github.com/xcl-dev/xcl",
+      "source": "GitHub API"
+    },
+    {
+      "id": "gh-1467035512",
+      "group": "今天",
+      "type": "开源",
+      "typeClass": "opensource",
+      "topics": [
+        "开源工具"
+      ],
+      "title": "4lwayz/portwatch-vi（★ 4,063）",
+      "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
+      "author": "4lwayz",
+      "pubTime": "11-21 23:16",
+      "listed": "11-21",
+      "votes": 163,
+      "url": "https://github.com/4lwayz/portwatch-vi",
       "source": "GitHub API"
     },
     {
@@ -2153,12 +2170,12 @@
         "Agent",
         "效率工具"
       ],
-      "title": "EL4CTEO/fast-anything（★ 3,827）",
+      "title": "EL4CTEO/fast-anything（★ 3,943）",
       "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
       "author": "EL4CTEO",
       "pubTime": "11-21 14:40",
       "listed": "11-21",
-      "votes": 153,
+      "votes": 158,
       "url": "https://github.com/EL4CTEO/fast-anything",
       "source": "GitHub API"
     },
@@ -2170,30 +2187,13 @@
       "topics": [
         "开源工具"
       ],
-      "title": "AFK-surf/xnulinux（★ 3,767）",
+      "title": "AFK-surf/xnulinux（★ 3,926）",
       "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
       "author": "AFK-surf",
       "pubTime": "11-20 10:18",
       "listed": "11-20",
-      "votes": 151,
+      "votes": 157,
       "url": "https://github.com/AFK-surf/xnulinux",
-      "source": "GitHub API"
-    },
-    {
-      "id": "gh-1467035512",
-      "group": "今天",
-      "type": "开源",
-      "typeClass": "opensource",
-      "topics": [
-        "开源工具"
-      ],
-      "title": "4lwayz/portwatch-vi（★ 3,431）",
-      "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
-      "author": "4lwayz",
-      "pubTime": "11-21 23:16",
-      "listed": "11-21",
-      "votes": 137,
-      "url": "https://github.com/4lwayz/portwatch-vi",
       "source": "GitHub API"
     },
     {
@@ -2204,12 +2204,12 @@
       "topics": [
         "开源工具"
       ],
-      "title": "fxceless/victory-fork（★ 2,781）",
+      "title": "fxceless/victory-fork（★ 3,051）",
       "desc": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
       "author": "fxceless",
       "pubTime": "11-24 18:02",
       "listed": "11-24",
-      "votes": 111,
+      "votes": 122,
       "url": "https://github.com/fxceless/victory-fork",
       "source": "GitHub API"
     },
@@ -2222,12 +2222,12 @@
         "AI 模型",
         "视频生成"
       ],
-      "title": "iamajmeena/neonclipping（★ 2,581）",
+      "title": "iamajmeena/neonclipping（★ 2,627）",
       "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
       "author": "iamajmeena",
       "pubTime": "11-19 10:00",
       "listed": "11-19",
-      "votes": 103,
+      "votes": 105,
       "url": "https://github.com/iamajmeena/neonclipping",
       "source": "GitHub API"
     },
@@ -2239,12 +2239,12 @@
       "topics": [
         "开源工具"
       ],
-      "title": "ubiquitarianism/leonida（★ 2,177）",
+      "title": "ubiquitarianism/leonida（★ 2,323）",
       "desc": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
       "author": "ubiquitarianism",
       "pubTime": "11-23 23:54",
       "listed": "11-23",
-      "votes": 87,
+      "votes": 93,
       "url": "https://github.com/ubiquitarianism/leonida",
       "source": "GitHub API"
     },
@@ -2436,50 +2436,50 @@
   "topics": [
     {
       "rank": 1,
-      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
-      "burst": "爆发 ×1.9",
-      "accountsCount": 66,
-      "views24h": "57万",
-      "postsCount": 92,
+      "title": "1Password Security Incident",
+      "burst": "爆发 ×15.5",
+      "accountsCount": 426,
+      "views24h": "454万",
+      "postsCount": 596,
       "cat": "效率",
-      "summary": "来自 Hacker News 实时热榜（126 分 · 66 条讨论）。点击查看原讨论链接：https://github.com/xoxorwr/pw-loudness-eq",
-      "url": "https://github.com/xoxorwr/pw-loudness-eq",
+      "summary": "来自 Hacker News 实时热榜（1008 分 · 426 条讨论）。点击查看原讨论链接：https://1password.com/blog/update-on-nov-2026-security-incident",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
       "source": "Hacker News API"
     },
     {
       "rank": 2,
-      "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
-      "burst": "爆发 ×1.5",
-      "accountsCount": 6,
-      "views24h": "12万",
-      "postsCount": 8,
+      "title": "Much shorter version of GRH Lean verification from Anthropic",
+      "burst": "爆发 ×2.6",
+      "accountsCount": 70,
+      "views24h": "75万",
+      "postsCount": 98,
       "cat": "效率",
-      "summary": "来自 Hacker News 实时热榜（27 分 · 6 条讨论）。点击查看原讨论链接：https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
-      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "summary": "来自 Hacker News 实时热榜（166 分 · 70 条讨论）。点击查看原讨论链接：https://github.com/lsernau/grh-lean",
+      "url": "https://github.com/lsernau/grh-lean",
       "source": "Hacker News API"
     },
     {
       "rank": 3,
-      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
-      "burst": "爆发 ×8.6",
-      "accountsCount": 84,
-      "views24h": "251万",
-      "postsCount": 118,
+      "title": "The New York Times tells photographers not to use the latest Photoshop",
+      "burst": "爆发 ×1.6",
+      "accountsCount": 55,
+      "views24h": "48万",
+      "postsCount": 77,
       "cat": "效率",
-      "summary": "来自 Hacker News 实时热榜（558 分 · 84 条讨论）。点击查看原讨论链接：https://buttons.joshwcomeau.com/",
-      "url": "https://buttons.joshwcomeau.com/",
+      "summary": "来自 Hacker News 实时热榜（106 分 · 55 条讨论）。点击查看原讨论链接：https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/",
+      "url": "https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/",
       "source": "Hacker News API"
     },
     {
       "rank": 4,
-      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
-      "burst": "爆发 ×12",
-      "accountsCount": 444,
-      "views24h": "351万",
-      "postsCount": 622,
-      "cat": "效率",
-      "summary": "来自 Hacker News 实时热榜（780 分 · 444 条讨论）。点击查看原讨论链接：https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+      "burst": "爆发 ×2.7",
+      "accountsCount": 40,
+      "views24h": "80万",
+      "postsCount": 56,
+      "cat": "AI",
+      "summary": "来自 Hacker News 实时热榜（178 分 · 40 条讨论）。点击查看原讨论链接：https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
       "source": "Hacker News API"
     },
     {
