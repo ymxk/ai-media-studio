@@ -3,7 +3,7 @@
     "date": "2026-11-25",
     "yesterdayDate": "2026-11-24",
     "weekday": "星期三",
-    "updatedAt": "11-25 10:26",
+    "updatedAt": "11-25 22:08",
     "todayOriginalPosts": 27566,
     "todayTotalViews": "2.6亿",
     "trackedAccounts": 2984,
@@ -2118,12 +2118,12 @@
       "topics": [
         "开源工具"
       ],
-      "title": "Marvisak/VIctory（★ 11,463）",
+      "title": "Marvisak/VIctory（★ 12,149）",
       "desc": "An attempt at running GTA VI on PC",
       "author": "Marvisak",
       "pubTime": "11-23 21:47",
       "listed": "11-23",
-      "votes": 459,
+      "votes": 486,
       "url": "https://github.com/Marvisak/VIctory",
       "source": "GitHub API"
     },
@@ -2135,12 +2135,12 @@
       "topics": [
         "开源工具"
       ],
-      "title": "xcl-dev/xcl（★ 7,887）",
+      "title": "xcl-dev/xcl（★ 8,147）",
       "desc": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
       "author": "xcl-dev",
       "pubTime": "11-20 20:03",
       "listed": "11-20",
-      "votes": 315,
+      "votes": 326,
       "url": "https://github.com/xcl-dev/xcl",
       "source": "GitHub API"
     },
@@ -2153,12 +2153,12 @@
         "Agent",
         "效率工具"
       ],
-      "title": "EL4CTEO/fast-anything（★ 3,633）",
+      "title": "EL4CTEO/fast-anything（★ 3,827）",
       "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
       "author": "EL4CTEO",
       "pubTime": "11-21 14:40",
       "listed": "11-21",
-      "votes": 145,
+      "votes": 153,
       "url": "https://github.com/EL4CTEO/fast-anything",
       "source": "GitHub API"
     },
@@ -2170,12 +2170,12 @@
       "topics": [
         "开源工具"
       ],
-      "title": "AFK-surf/xnulinux（★ 3,427）",
+      "title": "AFK-surf/xnulinux（★ 3,767）",
       "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
       "author": "AFK-surf",
       "pubTime": "11-20 10:18",
       "listed": "11-20",
-      "votes": 137,
+      "votes": 151,
       "url": "https://github.com/AFK-surf/xnulinux",
       "source": "GitHub API"
     },
@@ -2187,48 +2187,48 @@
       "topics": [
         "开源工具"
       ],
-      "title": "4lwayz/portwatch-vi（★ 2,959）",
+      "title": "4lwayz/portwatch-vi（★ 3,431）",
       "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
       "author": "4lwayz",
       "pubTime": "11-21 23:16",
       "listed": "11-21",
-      "votes": 118,
+      "votes": 137,
       "url": "https://github.com/4lwayz/portwatch-vi",
       "source": "GitHub API"
     },
     {
-      "id": "gh-1463963309",
+      "id": "gh-1470579726",
       "group": "今天",
+      "type": "开源",
+      "typeClass": "opensource",
+      "topics": [
+        "开源工具"
+      ],
+      "title": "fxceless/victory-fork（★ 2,781）",
+      "desc": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+      "author": "fxceless",
+      "pubTime": "11-24 18:02",
+      "listed": "11-24",
+      "votes": 111,
+      "url": "https://github.com/fxceless/victory-fork",
+      "source": "GitHub API"
+    },
+    {
+      "id": "gh-1463963309",
+      "group": "昨天",
       "type": "开源",
       "typeClass": "opensource",
       "topics": [
         "AI 模型",
         "视频生成"
       ],
-      "title": "iamajmeena/neonclipping（★ 2,492）",
+      "title": "iamajmeena/neonclipping（★ 2,581）",
       "desc": "Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipping engine (audio-first, YouTube captions, local LLM).",
       "author": "iamajmeena",
       "pubTime": "11-19 10:00",
       "listed": "11-19",
-      "votes": 100,
+      "votes": 103,
       "url": "https://github.com/iamajmeena/neonclipping",
-      "source": "GitHub API"
-    },
-    {
-      "id": "gh-1470579726",
-      "group": "昨天",
-      "type": "开源",
-      "typeClass": "opensource",
-      "topics": [
-        "开源工具"
-      ],
-      "title": "fxceless/victory-fork（★ 2,064）",
-      "desc": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
-      "author": "fxceless",
-      "pubTime": "11-24 18:02",
-      "listed": "11-24",
-      "votes": 83,
-      "url": "https://github.com/fxceless/victory-fork",
       "source": "GitHub API"
     },
     {
@@ -2239,12 +2239,12 @@
       "topics": [
         "开源工具"
       ],
-      "title": "ubiquitarianism/leonida（★ 1,915）",
+      "title": "ubiquitarianism/leonida（★ 2,177）",
       "desc": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
       "author": "ubiquitarianism",
       "pubTime": "11-23 23:54",
       "listed": "11-23",
-      "votes": 77,
+      "votes": 87,
       "url": "https://github.com/ubiquitarianism/leonida",
       "source": "GitHub API"
     },
@@ -2436,50 +2436,50 @@
   "topics": [
     {
       "rank": 1,
-      "title": "Matrix Multiplication is O(n^2.25) [pdf]",
-      "burst": "爆发 ×1.5",
-      "accountsCount": 21,
-      "views24h": "41万",
-      "postsCount": 29,
+      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "burst": "爆发 ×1.9",
+      "accountsCount": 66,
+      "views24h": "57万",
+      "postsCount": 92,
       "cat": "效率",
-      "summary": "来自 Hacker News 实时热榜（91 分 · 21 条讨论）。点击查看原讨论链接：https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "summary": "来自 Hacker News 实时热榜（126 分 · 66 条讨论）。点击查看原讨论链接：https://github.com/xoxorwr/pw-loudness-eq",
+      "url": "https://github.com/xoxorwr/pw-loudness-eq",
       "source": "Hacker News API"
     },
     {
       "rank": 2,
-      "title": "Ternary Bonsai 2.5 27B",
-      "burst": "爆发 ×5.4",
-      "accountsCount": 120,
-      "views24h": "158万",
-      "postsCount": 168,
-      "cat": "AI",
-      "summary": "来自 Hacker News 实时热榜（352 分 · 120 条讨论）。点击查看原讨论链接：https://prismml.com/news/bonsai-2-5-27b",
-      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
+      "burst": "爆发 ×1.5",
+      "accountsCount": 6,
+      "views24h": "12万",
+      "postsCount": 8,
+      "cat": "效率",
+      "summary": "来自 Hacker News 实时热榜（27 分 · 6 条讨论）。点击查看原讨论链接：https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
+      "url": "https://github.com/google-research/google-research/tree/master/cogentic_research_papers",
       "source": "Hacker News API"
     },
     {
       "rank": 3,
-      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
-      "burst": "爆发 ×1.5",
-      "accountsCount": 4,
-      "views24h": "20万",
-      "postsCount": 6,
-      "cat": "AI",
-      "summary": "来自 Hacker News 实时热榜（44 分 · 4 条讨论）。点击查看原讨论链接：https://greydanus.github.io/2026/11/12/pengpt/",
-      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+      "title": "Button Sounds – collection of professionally-recorded button clicks and presses",
+      "burst": "爆发 ×8.6",
+      "accountsCount": 84,
+      "views24h": "251万",
+      "postsCount": 118,
+      "cat": "效率",
+      "summary": "来自 Hacker News 实时热榜（558 分 · 84 条讨论）。点击查看原讨论链接：https://buttons.joshwcomeau.com/",
+      "url": "https://buttons.joshwcomeau.com/",
       "source": "Hacker News API"
     },
     {
       "rank": 4,
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "burst": "爆发 ×2.8",
-      "accountsCount": 50,
-      "views24h": "81万",
-      "postsCount": 70,
-      "cat": "AI",
-      "summary": "来自 Hacker News 实时热榜（180 分 · 50 条讨论）。点击查看原讨论链接：https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/",
+      "title": "Matrix Multiplication is Θ(n^2.25) [pdf]",
+      "burst": "爆发 ×12",
+      "accountsCount": 444,
+      "views24h": "351万",
+      "postsCount": 622,
+      "cat": "效率",
+      "summary": "来自 Hacker News 实时热榜（780 分 · 444 条讨论）。点击查看原讨论链接：https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
       "source": "Hacker News API"
     },
     {
