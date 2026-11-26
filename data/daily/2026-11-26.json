@@ -3,7 +3,7 @@
     "date": "2026-11-26",
     "yesterdayDate": "2026-11-24",
     "weekday": "星期三",
-    "updatedAt": "11-26 16:00",
+    "updatedAt": "11-27 02:20",
     "todayOriginalPosts": 27566,
     "todayTotalViews": "2.6亿",
     "trackedAccounts": 2984,
@@ -2118,12 +2118,12 @@
       "topics": [
         "开源工具"
       ],
-      "title": "Marvisak/VIctory（★ 12,807）",
+      "title": "Marvisak/VIctory（★ 13,168）",
       "desc": "An attempt at running GTA VI on PC",
       "author": "Marvisak",
       "pubTime": "11-23 21:47",
       "listed": "11-23",
-      "votes": 512,
+      "votes": 527,
       "url": "https://github.com/Marvisak/VIctory",
       "source": "GitHub API"
     },
@@ -2135,12 +2135,12 @@
       "topics": [
         "开源工具"
       ],
-      "title": "xcl-dev/xcl（★ 8,389）",
+      "title": "xcl-dev/xcl（★ 8,548）",
       "desc": "Xbox Series compatibility layer for Windows - runs console game code natively, reimplements the console system libraries and recompiles RDNA2 shaders to DXIL",
       "author": "xcl-dev",
       "pubTime": "11-20 20:03",
       "listed": "11-20",
-      "votes": 336,
+      "votes": 342,
       "url": "https://github.com/xcl-dev/xcl",
       "source": "GitHub API"
     },
@@ -2152,13 +2152,30 @@
       "topics": [
         "开源工具"
       ],
-      "title": "4lwayz/portwatch-vi（★ 4,580）",
+      "title": "4lwayz/portwatch-vi（★ 5,362）",
       "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
       "author": "4lwayz",
       "pubTime": "11-21 23:16",
       "listed": "11-21",
-      "votes": 183,
+      "votes": 214,
       "url": "https://github.com/4lwayz/portwatch-vi",
+      "source": "GitHub API"
+    },
+    {
+      "id": "gh-1465281397",
+      "group": "今天",
+      "type": "开源",
+      "typeClass": "opensource",
+      "topics": [
+        "开源工具"
+      ],
+      "title": "AFK-surf/xnulinux（★ 4,195）",
+      "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
+      "author": "AFK-surf",
+      "pubTime": "11-20 10:18",
+      "listed": "11-20",
+      "votes": 168,
+      "url": "https://github.com/AFK-surf/xnulinux",
       "source": "GitHub API"
     },
     {
@@ -2170,30 +2187,13 @@
         "Agent",
         "效率工具"
       ],
-      "title": "EL4CTEO/fast-anything（★ 4,060）",
+      "title": "EL4CTEO/fast-anything（★ 4,194）",
       "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
       "author": "EL4CTEO",
       "pubTime": "11-21 14:40",
       "listed": "11-21",
-      "votes": 162,
+      "votes": 168,
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "source": "GitHub API"
-    },
-    {
-      "id": "gh-1465281397",
-      "group": "今天",
-      "type": "开源",
-      "typeClass": "opensource",
-      "topics": [
-        "开源工具"
-      ],
-      "title": "AFK-surf/xnulinux（★ 4,049）",
-      "desc": "XNU as a loadable kernel module inside Linux (macOS personality for arm64 Linux)",
-      "author": "AFK-surf",
-      "pubTime": "11-20 10:18",
-      "listed": "11-20",
-      "votes": 162,
-      "url": "https://github.com/AFK-surf/xnulinux",
       "source": "GitHub API"
     },
     {
@@ -2204,12 +2204,12 @@
       "topics": [
         "开源工具"
       ],
-      "title": "fxceless/victory-fork（★ 3,159）",
+      "title": "fxceless/victory-fork（★ 3,249）",
       "desc": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
       "author": "fxceless",
       "pubTime": "11-24 18:02",
       "listed": "11-24",
-      "votes": 126,
+      "votes": 130,
       "url": "https://github.com/fxceless/victory-fork",
       "source": "GitHub API"
     },
@@ -2221,12 +2221,12 @@
       "topics": [
         "开源工具"
       ],
-      "title": "ubiquitarianism/leonida（★ 2,390）",
+      "title": "ubiquitarianism/leonida（★ 2,487）",
       "desc": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
       "author": "ubiquitarianism",
       "pubTime": "11-23 23:54",
       "listed": "11-23",
-      "votes": 96,
+      "votes": 99,
       "url": "https://github.com/ubiquitarianism/leonida",
       "source": "GitHub API"
     },
@@ -2238,7 +2238,7 @@
       "topics": [
         "开源工具"
       ],
-      "title": "R0Y00/Xbox2Windows（★ 1,959）",
+      "title": "R0Y00/Xbox2Windows（★ 1,960）",
       "desc": "Static recompilation research for Xbox Series X|S software on x64 Windows, with source-built CPU and GPU tests. Full-game startup is unverified.",
       "author": "R0Y00",
       "pubTime": "11-20 17:43",
@@ -2435,50 +2435,50 @@
   "topics": [
     {
       "rank": 1,
-      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what’s now happening",
-      "burst": "爆发 ×21.3",
-      "accountsCount": 1211,
-      "views24h": "624万",
-      "postsCount": 1695,
-      "cat": "效率",
-      "summary": "来自 Hacker News 实时热榜（1386 分 · 1211 条讨论）。点击查看原讨论链接：https://scottaaronson.blog/?p=10379",
-      "url": "https://scottaaronson.blog/?p=10379",
+      "title": "Tracking Diseases Cured by AI",
+      "burst": "爆发 ×1.6",
+      "accountsCount": 43,
+      "views24h": "47万",
+      "postsCount": 60,
+      "cat": "AI",
+      "summary": "来自 Hacker News 实时热榜（105 分 · 43 条讨论）。点击查看原讨论链接：https://diseasescuredbyai.com/",
+      "url": "https://diseasescuredbyai.com/",
       "source": "Hacker News API"
     },
     {
       "rank": 2,
-      "title": "Mirror life is dangerous. Regulators must act before it becomes real",
+      "title": "AMD Specific Patches for Llama.cpp",
       "burst": "爆发 ×1.5",
-      "accountsCount": 11,
-      "views24h": "12万",
-      "postsCount": 15,
+      "accountsCount": 17,
+      "views24h": "29万",
+      "postsCount": 24,
       "cat": "效率",
-      "summary": "来自 Hacker News 实时热榜（17 分 · 11 条讨论）。点击查看原讨论链接：https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real",
-      "url": "https://www.economist.com/leaders/2026/10/01/mirror-life-is-dangerous-regulators-must-act-before-it-becomes-real",
+      "summary": "来自 Hacker News 实时热榜（65 分 · 17 条讨论）。点击查看原讨论链接：https://devnull.land/amd-specific-llama-cpp",
+      "url": "https://devnull.land/amd-specific-llama-cpp",
       "source": "Hacker News API"
     },
     {
       "rank": 3,
-      "title": "1Password Security Incident",
-      "burst": "爆发 ×21.2",
-      "accountsCount": 578,
-      "views24h": "620万",
-      "postsCount": 809,
+      "title": "YouTube Ad Punisher – Bypass anti-adblock",
+      "burst": "爆发 ×1.5",
+      "accountsCount": 26,
+      "views24h": "12万",
+      "postsCount": 36,
       "cat": "效率",
-      "summary": "来自 Hacker News 实时热榜（1377 分 · 578 条讨论）。点击查看原讨论链接：https://1password.com/blog/update-on-nov-2026-security-incident",
-      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "summary": "来自 Hacker News 实时热榜（27 分 · 26 条讨论）。点击查看原讨论链接：https://github.com/antonpictures/youtube-punisher",
+      "url": "https://github.com/antonpictures/youtube-punisher",
       "source": "Hacker News API"
     },
     {
       "rank": 4,
-      "title": "Lions' Commentary on Unix: Why It Was Secretly Copied for 20 Years",
+      "title": "NP_R ≠ PAR_R",
       "burst": "爆发 ×1.5",
-      "accountsCount": 7,
-      "views24h": "26万",
-      "postsCount": 10,
+      "accountsCount": 69,
+      "views24h": "35万",
+      "postsCount": 97,
       "cat": "效率",
-      "summary": "来自 Hacker News 实时热榜（58 分 · 7 条讨论）。点击查看原讨论链接：https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
-      "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+      "summary": "来自 Hacker News 实时热榜（78 分 · 69 条讨论）。点击查看原讨论链接：https://github.com/samueleverett01/bss-permanent-separations",
+      "url": "https://github.com/samueleverett01/bss-permanent-separations",
       "source": "Hacker News API"
     },
     {
