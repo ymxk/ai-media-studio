@@ -3,7 +3,7 @@
     "date": "2026-11-27",
     "yesterdayDate": "2026-11-24",
     "weekday": "星期三",
-    "updatedAt": "11-27 10:07",
+    "updatedAt": "11-27 19:59",
     "todayOriginalPosts": 27566,
     "todayTotalViews": "2.6亿",
     "trackedAccounts": 2984,
@@ -2118,12 +2118,12 @@
       "topics": [
         "开源工具"
       ],
-      "title": "Marvisak/VIctory（★ 13,393）",
+      "title": "Marvisak/VIctory（★ 13,597）",
       "desc": "An attempt at running GTA VI on PC",
       "author": "Marvisak",
       "pubTime": "11-23 21:47",
       "listed": "11-23",
-      "votes": 536,
+      "votes": 544,
       "url": "https://github.com/Marvisak/VIctory",
       "source": "GitHub API"
     },
@@ -2135,12 +2135,12 @@
       "topics": [
         "开源工具"
       ],
-      "title": "4lwayz/portwatch-vi（★ 5,876）",
+      "title": "4lwayz/portwatch-vi（★ 6,224）",
       "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
       "author": "4lwayz",
       "pubTime": "11-21 23:16",
       "listed": "11-21",
-      "votes": 235,
+      "votes": 249,
       "url": "https://github.com/4lwayz/portwatch-vi",
       "source": "GitHub API"
     },
@@ -2153,30 +2153,13 @@
         "Agent",
         "效率工具"
       ],
-      "title": "EL4CTEO/fast-anything（★ 4,248）",
+      "title": "EL4CTEO/fast-anything（★ 4,370）",
       "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
       "author": "EL4CTEO",
       "pubTime": "11-21 14:40",
       "listed": "11-21",
-      "votes": 170,
+      "votes": 175,
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "source": "GitHub API"
-    },
-    {
-      "id": "gh-1470579726",
-      "group": "今天",
-      "type": "开源",
-      "typeClass": "opensource",
-      "topics": [
-        "开源工具"
-      ],
-      "title": "fxceless/victory-fork（★ 3,284）",
-      "desc": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
-      "author": "fxceless",
-      "pubTime": "11-24 18:02",
-      "listed": "11-24",
-      "votes": 131,
-      "url": "https://github.com/fxceless/victory-fork",
       "source": "GitHub API"
     },
     {
@@ -2187,13 +2170,30 @@
       "topics": [
         "开源工具"
       ],
-      "title": "Belobug/VIctory-Belobug-AMD（★ 3,072）",
+      "title": "Belobug/VIctory-Belobug-AMD（★ 3,836）",
       "desc": "GitHub 近期高星开源项目，点击直达仓库查看源码与文档。",
       "author": "Belobug",
       "pubTime": "11-25 09:41",
       "listed": "11-25",
-      "votes": 123,
+      "votes": 153,
       "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
+      "source": "GitHub API"
+    },
+    {
+      "id": "gh-1470579726",
+      "group": "今天",
+      "type": "开源",
+      "typeClass": "opensource",
+      "topics": [
+        "开源工具"
+      ],
+      "title": "fxceless/victory-fork（★ 3,319）",
+      "desc": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
+      "author": "fxceless",
+      "pubTime": "11-24 18:02",
+      "listed": "11-24",
+      "votes": 133,
+      "url": "https://github.com/fxceless/victory-fork",
       "source": "GitHub API"
     },
     {
@@ -2204,12 +2204,12 @@
       "topics": [
         "开源工具"
       ],
-      "title": "ubiquitarianism/leonida（★ 2,536）",
+      "title": "ubiquitarianism/leonida（★ 2,584）",
       "desc": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
       "author": "ubiquitarianism",
       "pubTime": "11-23 23:54",
       "listed": "11-23",
-      "votes": 101,
+      "votes": 103,
       "url": "https://github.com/ubiquitarianism/leonida",
       "source": "GitHub API"
     },
@@ -2221,30 +2221,30 @@
       "topics": [
         "开源工具"
       ],
-      "title": "os6/nospeaker（★ 1,958）",
+      "title": "os6/nospeaker（★ 1,972）",
       "desc": "make your macbook's trackpad talk using its haptic motor",
       "author": "os6",
       "pubTime": "11-22 12:05",
       "listed": "11-22",
-      "votes": 78,
+      "votes": 79,
       "url": "https://github.com/os6/nospeaker",
       "source": "GitHub API"
     },
     {
-      "id": "gh-1466325515",
+      "id": "gh-1472396996",
       "group": "昨天",
       "type": "开源",
       "typeClass": "opensource",
       "topics": [
         "开源工具"
       ],
-      "title": "omonkeyz/xbox-emulator（★ 1,852）",
-      "desc": "Progress notes for running Xbox Series X|S builds on PC (TomBox + rage9)",
-      "author": "omonkeyz",
-      "pubTime": "11-21 08:08",
-      "listed": "11-21",
-      "votes": 74,
-      "url": "https://github.com/omonkeyz/xbox-emulator",
+      "title": "avatarmanz/VIctory-7900XTX（★ 1,902）",
+      "desc": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting), then 30+ fps. Porting, not emulating. RX 7900 XTX first. No game files.",
+      "author": "avatarmanz",
+      "pubTime": "11-25 22:18",
+      "listed": "11-25",
+      "votes": 76,
+      "url": "https://github.com/avatarmanz/VIctory-7900XTX",
       "source": "GitHub API"
     },
     {
@@ -2435,50 +2435,50 @@
   "topics": [
     {
       "rank": 1,
-      "title": "AI made self-hosting fun again",
-      "burst": "爆发 ×4.9",
-      "accountsCount": 167,
-      "views24h": "144万",
-      "postsCount": 234,
+      "title": "The group chat where your AI talks behind your back",
+      "burst": "爆发 ×5",
+      "accountsCount": 144,
+      "views24h": "148万",
+      "postsCount": 202,
       "cat": "AI",
-      "summary": "来自 Hacker News 实时热榜（320 分 · 167 条讨论）。点击查看原讨论链接：https://janlukas.blog/posts/ai-self-hosting",
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "summary": "来自 Hacker News 实时热榜（328 分 · 144 条讨论）。点击查看原讨论链接：https://construct22.com/",
+      "url": "https://construct22.com/",
       "source": "Hacker News API"
     },
     {
       "rank": 2,
-      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-      "burst": "爆发 ×3.8",
-      "accountsCount": 49,
-      "views24h": "110万",
-      "postsCount": 69,
-      "cat": "效率",
-      "summary": "来自 Hacker News 实时热榜（244 分 · 49 条讨论）。点击查看原讨论链接：https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "title": "AI made self-hosting fun again",
+      "burst": "爆发 ×11.8",
+      "accountsCount": 388,
+      "views24h": "345万",
+      "postsCount": 543,
+      "cat": "AI",
+      "summary": "来自 Hacker News 实时热榜（767 分 · 388 条讨论）。点击查看原讨论链接：https://janlukas.blog/posts/ai-self-hosting",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
       "source": "Hacker News API"
     },
     {
       "rank": 3,
-      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-      "burst": "爆发 ×4.2",
-      "accountsCount": 339,
-      "views24h": "123万",
-      "postsCount": 475,
-      "cat": "效率",
-      "summary": "来自 Hacker News 实时热榜（273 分 · 339 条讨论）。点击查看原讨论链接：https://github.com/antonpictures/youtube-punisher",
-      "url": "https://github.com/antonpictures/youtube-punisher",
+      "title": "Fields-winning mathematicians worried about eerie silence over AI and encryption",
+      "burst": "爆发 ×1.5",
+      "accountsCount": 36,
+      "views24h": "19万",
+      "postsCount": 50,
+      "cat": "AI",
+      "summary": "来自 Hacker News 实时热榜（43 分 · 36 条讨论）。点击查看原讨论链接：https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+      "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
       "source": "Hacker News API"
     },
     {
       "rank": 4,
-      "title": "AMD-specific fork of llama.cpp",
-      "burst": "爆发 ×4.4",
-      "accountsCount": 70,
-      "views24h": "130万",
-      "postsCount": 98,
+      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+      "burst": "爆发 ×6.6",
+      "accountsCount": 488,
+      "views24h": "193万",
+      "postsCount": 683,
       "cat": "效率",
-      "summary": "来自 Hacker News 实时热榜（288 分 · 70 条讨论）。点击查看原讨论链接：https://devnull.land/amd-specific-llama-cpp",
-      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "summary": "来自 Hacker News 实时热榜（429 分 · 488 条讨论）。点击查看原讨论链接：https://github.com/antonpictures/youtube-punisher",
+      "url": "https://github.com/antonpictures/youtube-punisher",
       "source": "Hacker News API"
     },
     {
