@@ -3,7 +3,7 @@
     "date": "2026-11-27",
     "yesterdayDate": "2026-11-24",
     "weekday": "星期三",
-    "updatedAt": "11-27 19:59",
+    "updatedAt": "11-28 05:03",
     "todayOriginalPosts": 27566,
     "todayTotalViews": "2.6亿",
     "trackedAccounts": 2984,
@@ -2118,12 +2118,12 @@
       "topics": [
         "开源工具"
       ],
-      "title": "Marvisak/VIctory（★ 13,597）",
+      "title": "Marvisak/VIctory（★ 13,763）",
       "desc": "An attempt at running GTA VI on PC",
       "author": "Marvisak",
       "pubTime": "11-23 21:47",
       "listed": "11-23",
-      "votes": 544,
+      "votes": 551,
       "url": "https://github.com/Marvisak/VIctory",
       "source": "GitHub API"
     },
@@ -2135,12 +2135,12 @@
       "topics": [
         "开源工具"
       ],
-      "title": "4lwayz/portwatch-vi（★ 6,224）",
+      "title": "4lwayz/portwatch-vi（★ 6,626）",
       "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
       "author": "4lwayz",
       "pubTime": "11-21 23:16",
       "listed": "11-21",
-      "votes": 249,
+      "votes": 265,
       "url": "https://github.com/4lwayz/portwatch-vi",
       "source": "GitHub API"
     },
@@ -2153,30 +2153,13 @@
         "Agent",
         "效率工具"
       ],
-      "title": "EL4CTEO/fast-anything（★ 4,370）",
-      "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ruby apps, port the hot functions with your coding agent, prove they behave the same.",
+      "title": "EL4CTEO/fast-anything（★ 4,434）",
+      "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile your app, port the hot functions with your coding agent, prove they behave the same. Python, JS/TS, Ruby, Java, Kotlin, Go, PHP, C/C++, C#, R.",
       "author": "EL4CTEO",
       "pubTime": "11-21 14:40",
       "listed": "11-21",
-      "votes": 175,
+      "votes": 177,
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "source": "GitHub API"
-    },
-    {
-      "id": "gh-1471562910",
-      "group": "今天",
-      "type": "开源",
-      "typeClass": "opensource",
-      "topics": [
-        "开源工具"
-      ],
-      "title": "Belobug/VIctory-Belobug-AMD（★ 3,836）",
-      "desc": "GitHub 近期高星开源项目，点击直达仓库查看源码与文档。",
-      "author": "Belobug",
-      "pubTime": "11-25 09:41",
-      "listed": "11-25",
-      "votes": 153,
-      "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
       "source": "GitHub API"
     },
     {
@@ -2187,12 +2170,12 @@
       "topics": [
         "开源工具"
       ],
-      "title": "fxceless/victory-fork（★ 3,319）",
+      "title": "fxceless/victory-fork（★ 3,353）",
       "desc": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
       "author": "fxceless",
       "pubTime": "11-24 18:02",
       "listed": "11-24",
-      "votes": 133,
+      "votes": 134,
       "url": "https://github.com/fxceless/victory-fork",
       "source": "GitHub API"
     },
@@ -2204,47 +2187,65 @@
       "topics": [
         "开源工具"
       ],
-      "title": "ubiquitarianism/leonida（★ 2,584）",
+      "title": "ProjectLeonida/mandy（★ 2,628）",
       "desc": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
-      "author": "ubiquitarianism",
+      "author": "ProjectLeonida",
       "pubTime": "11-23 23:54",
       "listed": "11-23",
-      "votes": 103,
-      "url": "https://github.com/ubiquitarianism/leonida",
+      "votes": 105,
+      "url": "https://github.com/ProjectLeonida/mandy",
       "source": "GitHub API"
     },
     {
-      "id": "gh-1467519193",
-      "group": "昨天",
+      "id": "gh-1472451283",
+      "group": "今天",
       "type": "开源",
       "typeClass": "opensource",
       "topics": [
-        "开源工具"
+        "效率工具"
       ],
-      "title": "os6/nospeaker（★ 1,972）",
-      "desc": "make your macbook's trackpad talk using its haptic motor",
-      "author": "os6",
-      "pubTime": "11-22 12:05",
-      "listed": "11-22",
-      "votes": 79,
-      "url": "https://github.com/os6/nospeaker",
-      "source": "GitHub API"
-    },
-    {
-      "id": "gh-1472396996",
-      "group": "昨天",
-      "type": "开源",
-      "typeClass": "opensource",
-      "topics": [
-        "开源工具"
-      ],
-      "title": "avatarmanz/VIctory-7900XTX（★ 1,902）",
-      "desc": "Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K with ray tracing, picture matching the Xbox first (textures, lighting), then 30+ fps. Porting, not emulating. RX 7900 XTX first. No game files.",
-      "author": "avatarmanz",
-      "pubTime": "11-25 22:18",
+      "title": "trustno1-coder/VIctory-NVIDIA（★ 2,456）",
+      "desc": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks. Built on many repos combined into one. No game files or NVIDIA files included.",
+      "author": "trustno1-coder",
+      "pubTime": "11-25 23:35",
       "listed": "11-25",
-      "votes": 76,
-      "url": "https://github.com/avatarmanz/VIctory-7900XTX",
+      "votes": 98,
+      "url": "https://github.com/trustno1-coder/VIctory-NVIDIA",
+      "source": "GitHub API"
+    },
+    {
+      "id": "gh-1471624301",
+      "group": "昨天",
+      "type": "开源",
+      "typeClass": "opensource",
+      "topics": [
+        "Agent",
+        "AI 模型"
+      ],
+      "title": "nexu-io/opengame（★ 2,142）",
+      "desc": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
+      "author": "nexu-io",
+      "pubTime": "11-25 10:35",
+      "listed": "11-25",
+      "votes": 86,
+      "url": "https://github.com/nexu-io/opengame",
+      "source": "GitHub API"
+    },
+    {
+      "id": "gh-1471422729",
+      "group": "昨天",
+      "type": "开源",
+      "typeClass": "opensource",
+      "topics": [
+        "AI 模型"
+      ],
+      "title": "alesha-pro/llm.asm（★ 2,086）",
+      "desc": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+      "author": "alesha-pro",
+      "pubTime": "11-25 07:28",
+      "listed": "11-25",
+      "votes": 83,
+      "url": "https://github.com/alesha-pro/llm.asm",
       "source": "GitHub API"
     },
     {
@@ -2435,50 +2436,50 @@
   "topics": [
     {
       "rank": 1,
-      "title": "The group chat where your AI talks behind your back",
-      "burst": "爆发 ×5",
-      "accountsCount": 144,
-      "views24h": "148万",
-      "postsCount": 202,
-      "cat": "AI",
-      "summary": "来自 Hacker News 实时热榜（328 分 · 144 条讨论）。点击查看原讨论链接：https://construct22.com/",
-      "url": "https://construct22.com/",
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "burst": "爆发 ×4.4",
+      "accountsCount": 160,
+      "views24h": "127万",
+      "postsCount": 224,
+      "cat": "效率",
+      "summary": "来自 Hacker News 实时热榜（283 分 · 160 条讨论）。点击查看原讨论链接：https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
       "source": "Hacker News API"
     },
     {
       "rank": 2,
-      "title": "AI made self-hosting fun again",
-      "burst": "爆发 ×11.8",
-      "accountsCount": 388,
-      "views24h": "345万",
-      "postsCount": 543,
-      "cat": "AI",
-      "summary": "来自 Hacker News 实时热榜（767 分 · 388 条讨论）。点击查看原讨论链接：https://janlukas.blog/posts/ai-self-hosting",
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "burst": "爆发 ×1.8",
+      "accountsCount": 44,
+      "views24h": "53万",
+      "postsCount": 62,
+      "cat": "效率",
+      "summary": "来自 Hacker News 实时热榜（118 分 · 44 条讨论）。点击查看原讨论链接：https://github.com/convex/convex-backend-skill/issues/64",
+      "url": "https://github.com/convex/convex-backend-skill/issues/64",
       "source": "Hacker News API"
     },
     {
       "rank": 3,
-      "title": "Fields-winning mathematicians worried about eerie silence over AI and encryption",
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
       "burst": "爆发 ×1.5",
-      "accountsCount": 36,
-      "views24h": "19万",
-      "postsCount": 50,
+      "accountsCount": 88,
+      "views24h": "27万",
+      "postsCount": 123,
       "cat": "AI",
-      "summary": "来自 Hacker News 实时热榜（43 分 · 36 条讨论）。点击查看原讨论链接：https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
-      "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+      "summary": "来自 Hacker News 实时热榜（61 分 · 88 条讨论）。点击查看原讨论链接：https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
       "source": "Hacker News API"
     },
     {
       "rank": 4,
-      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-      "burst": "爆发 ×6.6",
-      "accountsCount": 488,
-      "views24h": "193万",
-      "postsCount": 683,
+      "title": "Citroën Hydraulic System",
+      "burst": "爆发 ×1.5",
+      "accountsCount": 16,
+      "views24h": "20万",
+      "postsCount": 22,
       "cat": "效率",
-      "summary": "来自 Hacker News 实时热榜（429 分 · 488 条讨论）。点击查看原讨论链接：https://github.com/antonpictures/youtube-punisher",
-      "url": "https://github.com/antonpictures/youtube-punisher",
+      "summary": "来自 Hacker News 实时热榜（44 分 · 16 条讨论）。点击查看原讨论链接：https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
+      "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
       "source": "Hacker News API"
     },
     {
