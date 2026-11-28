@@ -1,9 +1,9 @@
 {
   "meta": {
-    "date": "2026-11-27",
+    "date": "2026-11-28",
     "yesterdayDate": "2026-11-24",
     "weekday": "星期三",
-    "updatedAt": "11-28 05:03",
+    "updatedAt": "11-28 11:14",
     "todayOriginalPosts": 27566,
     "todayTotalViews": "2.6亿",
     "trackedAccounts": 2984,
@@ -2118,48 +2118,30 @@
       "topics": [
         "开源工具"
       ],
-      "title": "Marvisak/VIctory（★ 13,763）",
+      "title": "Marvisak/VIctory（★ 13,843）",
       "desc": "An attempt at running GTA VI on PC",
       "author": "Marvisak",
       "pubTime": "11-23 21:47",
       "listed": "11-23",
-      "votes": 551,
+      "votes": 554,
       "url": "https://github.com/Marvisak/VIctory",
       "source": "GitHub API"
     },
     {
-      "id": "gh-1467035512",
+      "id": "gh-1472451283",
       "group": "今天",
       "type": "开源",
       "typeClass": "opensource",
       "topics": [
-        "开源工具"
-      ],
-      "title": "4lwayz/portwatch-vi（★ 6,626）",
-      "desc": "Does GTA VI run on PC yet? A live tracker of community recompilation and emulation efforts, updated daily.",
-      "author": "4lwayz",
-      "pubTime": "11-21 23:16",
-      "listed": "11-21",
-      "votes": 265,
-      "url": "https://github.com/4lwayz/portwatch-vi",
-      "source": "GitHub API"
-    },
-    {
-      "id": "gh-1466635339",
-      "group": "今天",
-      "type": "开源",
-      "typeClass": "opensource",
-      "topics": [
-        "Agent",
         "效率工具"
       ],
-      "title": "EL4CTEO/fast-anything（★ 4,434）",
-      "desc": "Don't rewrite it in Rust. Rewrite the 5% that's slow: profile your app, port the hot functions with your coding agent, prove they behave the same. Python, JS/TS, Ruby, Java, Kotlin, Go, PHP, C/C++, C#, R.",
-      "author": "EL4CTEO",
-      "pubTime": "11-21 14:40",
-      "listed": "11-21",
-      "votes": 177,
-      "url": "https://github.com/EL4CTEO/fast-anything",
+      "title": "trustno1-coder/VIctory-NVIDIA（★ 3,684）",
+      "desc": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks. Built on many repos combined into one. No game files or NVIDIA files included.",
+      "author": "trustno1-coder",
+      "pubTime": "11-25 23:35",
+      "listed": "11-25",
+      "votes": 147,
+      "url": "https://github.com/trustno1-coder/VIctory-NVIDIA",
       "source": "GitHub API"
     },
     {
@@ -2170,12 +2152,12 @@
       "topics": [
         "开源工具"
       ],
-      "title": "fxceless/victory-fork（★ 3,353）",
+      "title": "fxceless/victory-fork（★ 3,365）",
       "desc": "Work-in-progress fork of VIctory: getting an Xbox Series title to render and run on a Windows PC. No game files.",
       "author": "fxceless",
       "pubTime": "11-24 18:02",
       "listed": "11-24",
-      "votes": 134,
+      "votes": 135,
       "url": "https://github.com/fxceless/victory-fork",
       "source": "GitHub API"
     },
@@ -2187,65 +2169,82 @@
       "topics": [
         "开源工具"
       ],
-      "title": "ProjectLeonida/mandy（★ 2,628）",
+      "title": "ProjectLeonida/mandy（★ 2,945）",
       "desc": "A continuation of Leonida, the Xbox > PC port interface for GTA VI",
       "author": "ProjectLeonida",
       "pubTime": "11-23 23:54",
       "listed": "11-23",
-      "votes": 105,
+      "votes": 118,
       "url": "https://github.com/ProjectLeonida/mandy",
       "source": "GitHub API"
     },
     {
-      "id": "gh-1472451283",
-      "group": "今天",
-      "type": "开源",
-      "typeClass": "opensource",
-      "topics": [
-        "效率工具"
-      ],
-      "title": "trustno1-coder/VIctory-NVIDIA（★ 2,456）",
-      "desc": "VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X at 2560x1440 with DLSS, about 26-30 fps on an RTX 5070, DLSS frame generation 2x-6x, an F1 settings menu and F3 stats panel, open water without dark blocks. Built on many repos combined into one. No game files or NVIDIA files included.",
-      "author": "trustno1-coder",
-      "pubTime": "11-25 23:35",
-      "listed": "11-25",
-      "votes": 98,
-      "url": "https://github.com/trustno1-coder/VIctory-NVIDIA",
-      "source": "GitHub API"
-    },
-    {
       "id": "gh-1471624301",
-      "group": "昨天",
+      "group": "今天",
       "type": "开源",
       "typeClass": "opensource",
       "topics": [
         "Agent",
         "AI 模型"
       ],
-      "title": "nexu-io/opengame（★ 2,142）",
+      "title": "nexu-io/opengame（★ 2,338）",
       "desc": "The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games to remix. Turn 20+ coding agents (Claude Code, Codex, DeepSeek, etc.) into a full-stack AI game studio. Build and publish 3D & mini-games to WeChat, Douyin, TikTok, Telegram, itch.io, and more.",
       "author": "nexu-io",
       "pubTime": "11-25 10:35",
       "listed": "11-25",
-      "votes": 86,
+      "votes": 94,
       "url": "https://github.com/nexu-io/opengame",
       "source": "GitHub API"
     },
     {
       "id": "gh-1471422729",
-      "group": "昨天",
+      "group": "今天",
       "type": "开源",
       "typeClass": "opensource",
       "topics": [
         "AI 模型"
       ],
-      "title": "alesha-pro/llm.asm（★ 2,086）",
+      "title": "alesha-pro/llm.asm（★ 2,269）",
       "desc": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
       "author": "alesha-pro",
       "pubTime": "11-25 07:28",
       "listed": "11-25",
-      "votes": 83,
+      "votes": 91,
       "url": "https://github.com/alesha-pro/llm.asm",
+      "source": "GitHub API"
+    },
+    {
+      "id": "gh-1467519193",
+      "group": "昨天",
+      "type": "开源",
+      "typeClass": "opensource",
+      "topics": [
+        "开源工具"
+      ],
+      "title": "os6/nospeaker（★ 1,993）",
+      "desc": "make your macbook's trackpad talk using its haptic motor",
+      "author": "os6",
+      "pubTime": "11-22 12:05",
+      "listed": "11-22",
+      "votes": 80,
+      "url": "https://github.com/os6/nospeaker",
+      "source": "GitHub API"
+    },
+    {
+      "id": "gh-1467461515",
+      "group": "昨天",
+      "type": "开源",
+      "typeClass": "opensource",
+      "topics": [
+        "开源工具"
+      ],
+      "title": "crhywun/g1-acq（★ 1,806）",
+      "desc": "GitHub 近期高星开源项目，点击直达仓库查看源码与文档。",
+      "author": "crhywun",
+      "pubTime": "11-22 10:53",
+      "listed": "11-22",
+      "votes": 72,
+      "url": "https://github.com/crhywun/g1-acq",
       "source": "GitHub API"
     },
     {
@@ -2436,50 +2435,50 @@
   "topics": [
     {
       "rank": 1,
-      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
-      "burst": "爆发 ×4.4",
-      "accountsCount": 160,
-      "views24h": "127万",
-      "postsCount": 224,
+      "title": "Atari Homebrew Awards Cancelled",
+      "burst": "爆发 ×1.5",
+      "accountsCount": 36,
+      "views24h": "27万",
+      "postsCount": 50,
       "cat": "效率",
-      "summary": "来自 Hacker News 实时热榜（283 分 · 160 条讨论）。点击查看原讨论链接：https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
-      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "summary": "来自 Hacker News 实时热榜（60 分 · 36 条讨论）。点击查看原讨论链接：https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
+      "url": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
       "source": "Hacker News API"
     },
     {
       "rank": 2,
-      "title": "Convex skills send the user's app idea to a remote server without telling them",
-      "burst": "爆发 ×1.8",
-      "accountsCount": 44,
-      "views24h": "53万",
-      "postsCount": 62,
-      "cat": "效率",
-      "summary": "来自 Hacker News 实时热榜（118 分 · 44 条讨论）。点击查看原讨论链接：https://github.com/convex/convex-backend-skill/issues/64",
-      "url": "https://github.com/convex/convex-backend-skill/issues/64",
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "burst": "爆发 ×2.5",
+      "accountsCount": 56,
+      "views24h": "72万",
+      "postsCount": 78,
+      "cat": "AI",
+      "summary": "来自 Hacker News 实时热榜（160 分 · 56 条讨论）。点击查看原讨论链接：https://research.google/blog/supercharging-transformer-residual-connections/",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
       "source": "Hacker News API"
     },
     {
       "rank": 3,
       "title": "GPT 6.2 Astra Solves a Historical Mystery",
-      "burst": "爆发 ×1.5",
-      "accountsCount": 88,
-      "views24h": "27万",
-      "postsCount": 123,
+      "burst": "爆发 ×5.3",
+      "accountsCount": 224,
+      "views24h": "156万",
+      "postsCount": 314,
       "cat": "AI",
-      "summary": "来自 Hacker News 实时热榜（61 分 · 88 条讨论）。点击查看原讨论链接：https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "summary": "来自 Hacker News 实时热榜（347 分 · 224 条讨论）。点击查看原讨论链接：https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
       "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
       "source": "Hacker News API"
     },
     {
       "rank": 4,
-      "title": "Citroën Hydraulic System",
-      "burst": "爆发 ×1.5",
-      "accountsCount": 16,
-      "views24h": "20万",
-      "postsCount": 22,
+      "title": "The Balatro Timeline",
+      "burst": "爆发 ×1.6",
+      "accountsCount": 23,
+      "views24h": "48万",
+      "postsCount": 32,
       "cat": "效率",
-      "summary": "来自 Hacker News 实时热榜（44 分 · 16 条讨论）。点击查看原讨论链接：https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
-      "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
+      "summary": "来自 Hacker News 实时热榜（107 分 · 23 条讨论）。点击查看原讨论链接：https://localthunk.com/blog/balatro-timeline-3aarh",
+      "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
       "source": "Hacker News API"
     },
     {
